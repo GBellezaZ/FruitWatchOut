@@ -11,7 +11,7 @@
   "engines": {
     "node": "16"
   },
-  "main": "index.js",
+  "main": "../public/scripts/index.js",
   "type": "module",
   "dependencies": {
     "firebase-admin": "^10.0.2",
